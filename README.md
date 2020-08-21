@@ -5,7 +5,8 @@
 
 # Covid-19
 
-## contexto
+## contexto ##
+
 "Los coronavirus son una extensa familia de virus que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS). El coronavirus que se ha descubierto más recientemente causa la enfermedad por coronavirus COVID-19" fuente:https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
 
 "La COVID‑19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto más recientemente. Tanto este nuevo virus como la enfermedad que provoca eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019. Actualmente la COVID‑19 es una pandemia que afecta a muchos países de todo el mundo." fuente: https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses 
@@ -15,4 +16,4 @@ fuente: https://www.un.org/es/coronavirus/articles/onu-contra-desinformacion-cov
 
 Este programa tiene como objetivo proveer información verídica y actualizada sobre el virus,así como estadística y recomendaciones de precauciónpara el usuario. También contará con un pequeño examen, que hará una serie de preguntas diagnósticas sobre síntomas de Covid-19, al finalizar el test el programa arrojará una recomendación en base a los datos ingresados, ya sea una recomendación de medidad de precaución y cuidado o una recomendación de asistencia médica en caso de que el resultado arroje que el usuario presente todos o la mayoría de los síntomas. Al final se generará un archivo de texto el cual le permitirá al usuario ver todos sus resultados y las recomendaciones generadas en base a su examen de diagnóstico. 
 
-## instrucciones
+## instrucciones ##
