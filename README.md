@@ -1,9 +1,6 @@
-# Proyecto
 
 
-
-
-# Covid-19
+# Proyecto Covid-19
 
 **Contexto**
 
