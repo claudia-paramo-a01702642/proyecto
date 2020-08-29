@@ -14,4 +14,6 @@ fuente: https://www.un.org/es/coronavirus/articles/onu-contra-desinformacion-cov
 Este programa tiene como objetivo proveer información verídica y actualizada sobre el virus,así como estadística y recomendaciones de precaución para el usuario. También contará con un pequeño examen, que hará una serie de preguntas diagnósticas sobre síntomas de Covid-19, al finalizar el test el programa arrojará una recomendación en base a los datos ingresados, ya sea una recomendación de medidad de precaución y cuidado o una recomendación de asistencia médica en caso de que el resultado arroje que el usuario presente todos o la mayoría de los síntomas. Al final se generará un archivo de texto el cual le permitirá al usuario ver todos sus resultados y las recomendaciones generadas en base a su examen de diagnóstico. 
 
 **Instrucciones**
+
+
 Descargar el archivo y correr en python o abrir el archivo en Thonny y presionar la opción de play.
