@@ -1,3 +1,4 @@
+import tkinter as tk
 
 def imprimir_menu():
     """
@@ -5,7 +6,7 @@ Mostrar al usuario las opciones disponibles
 """
     print("\n\n")
     print("1. Información.")
-    print("2. Esadística.")
+    print("2. Estadística.")
     print("3. Recomendaciones.")
     print("4. Evaluacion diagnóstica.")
  
@@ -143,4 +144,24 @@ while opcion_salir == "S" :
 print("Gracias por participar! hasta luego")
 
 
+ 
+root = tk.Tk()
+root.title("Bienvenido al portal de apoyo sobre Covid-19")
+label = tk.Label(root,text="1.Información", fg="black")
+label.pack()
+label2 = tk.Label(root,text="2. Estadística", fg="black")
+label2.pack()
+label3 = tk.Label(root,text="3. Recomendaciones", fg="black")
+label3.pack()
+label4 = tk.Label(root,text="4. Evaluacion diagnóstica", fg="black")
+label4.pack()
 
+label4 = tk.Label(root,text="Estare migrando a un programa con frames lo que tenia en consola", fg="black")
+label4.pack()
+
+button = tk.Button(root, text='Salir', width=25,command=quit)
+button.pack()
+root.mainloop()
+
+# La biblioteca que ocuparé será para cambiar el formato del programa a uno gráfico, que consta de ventanas y objetos como etiquetas
+# Puse como ejemplo algo sencillo de como sería la colocación de opciones de mi programa
